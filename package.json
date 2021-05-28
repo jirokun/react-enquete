@@ -97,7 +97,7 @@
     "strip": "^3.0.0",
     "style-loader": "^0.19.0",
     "throttle-debounce": "^1.0.1",
-    "tinymce": "^4.5.6",
+    "tinymce": "^5.7.1",
     "tooltipster": "^4.2.3",
     "underscore": "^1.8.3",
     "url-loader": "^0.5.9",
